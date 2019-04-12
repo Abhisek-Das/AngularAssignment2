@@ -1,0 +1,25 @@
+#header{
+    text-align: center;
+    height: 50px;
+    background-color: azure;
+}
+
+#sidebar-left{
+float: left;
+width: 15%;
+height: 600px;
+background-color: antiquewhite;
+}
+
+#main{
+    float: left;
+    width: 85%;
+    height: 600px;
+    background-color: cadetblue;
+}
+
+#footer{
+    text-align: center;
+    height: 10px;
+    background-color: violet;
+}
